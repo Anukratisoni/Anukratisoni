@@ -1,2 +1,0 @@
-print("Anukrati")
-print("hello")
